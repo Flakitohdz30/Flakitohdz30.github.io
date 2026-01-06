@@ -1,1 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+  }
 
+header {
+    background-color: #24292e;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+nav {
+    margin: 1rem 0;
+}
+nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #0366d6;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
